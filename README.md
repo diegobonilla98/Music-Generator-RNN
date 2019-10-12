@@ -14,3 +14,6 @@ Since I had so many little data, I started the model with 256 Long Short-Term Me
 After generating a fixed number of notes using the model, I applied sound effects to make it sound better and filter the high pitches and save it as a wav file.
 
 The results were AMAZING and some of them sounded very good. Other sounded (or had parts) like the songs I picked for the data, but I'm pretty sure is because there are very few songs in the dataset.
+
+
+EDIT: I extended the functionality of a sloppy piano so the output audio is better. Some songs are really pleasant to listen to. Some other not that much...
